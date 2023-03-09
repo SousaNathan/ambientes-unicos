@@ -1,2 +1,3 @@
 # ambientes-unicos
-Projeto 01 -  Explorer Stage 2 |  RocketSeat
+
+Trilha Explorer Stage 2 - Projeto 01 |  RocketSeat
